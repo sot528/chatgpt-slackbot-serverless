@@ -14,7 +14,7 @@ channels:join
 chat:write
 im:history
 im:read
-im:writ
+im:write
 ```
 
 Set scopes in Event Subscriptions - Subscribe to bot events
